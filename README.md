@@ -36,4 +36,6 @@ The repo's codebase is now set up on your local machine, and you can make change
 </a>
 	</td>
 	</tr>
-</table>
+</tabl?
+	contributors
+	
